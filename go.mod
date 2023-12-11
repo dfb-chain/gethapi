@@ -1,4 +1,4 @@
-module gethapi
+module github.com/dfb-chain/gethapi
 
 go 1.20
 
